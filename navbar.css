@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(29, 29, 63);
+  text-align: center;
+}
+nav {
+  height: 50px;
+  width: 75%;
+  font-size: large;
+}
+.primi {
+  color: azure;
+  padding-right: 25px;
+}
+.secondi {
+  color: gray;
+  padding-right: 25px;
+}
+#menu {
+  background-color: rgb(29, 29, 63);
+  margin-right: 25px;
+}
+#dis {
+  color: grey;
+  background-color: rgb(29, 29, 63);
+}
+.cerca {
+  background-color: white;
+  border-radius: 20px;
+}
+.cercab {
+  background-color: rgb(29, 29, 63);
+  border-radius: 20px;
+  border-color: green;
+  color: green;
+}
